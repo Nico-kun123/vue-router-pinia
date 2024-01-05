@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
+  "author": {
+    "name": "Nicolay Kudryavtsev"
+  },
+  "homepage": "https://nico-kun123.github.io/vue-router-pinia/",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
